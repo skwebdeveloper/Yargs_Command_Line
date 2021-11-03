@@ -15,7 +15,7 @@
     "fs": "0.0.1-security",
     "nodemon": "^2.0.4",
     "path": "^0.12.7",
-    "validator": "^13.0.0",
+    "validator": "^13.7.0",
     "yargs": "^15.3.1"
   }
 }
